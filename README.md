@@ -8,6 +8,6 @@ https://philipzheng.gitbooks.io/docker_practice/content/
 
 最完整的Docker聖經 - Docker原理圖解及全環境安裝
 https://joshhu.gitbooks.io/docker_theory_install/content/index.html
-<br>
-DOCKER基础技术：AUFS
+
+DOCKER基础技术：AUFS<br>
 http://coolshell.cn/tag/unionfs
