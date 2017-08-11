@@ -11,3 +11,6 @@ https://joshhu.gitbooks.io/docker_theory_install/content/index.html
 
 DOCKER基础技术：AUFS<br>
 http://coolshell.cn/tag/unionfs
+
+DOCKER windows 7 详细安装教程<br>
+http://blog.csdn.net/zistxym/article/details/42918339
