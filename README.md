@@ -14,3 +14,6 @@ http://coolshell.cn/tag/unionfs
 
 DOCKER windows 7 详细安装教程<br>
 http://blog.csdn.net/zistxym/article/details/42918339
+
+Guide: Install Docker on Windows 7, 8, and 10 using Docker Toolbox?<br>
+https://www.htpcbeginner.com/install-docker-on-windows-7-8-10/
