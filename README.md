@@ -24,6 +24,9 @@ https://www.htpcbeginner.com/install-docker-on-windows-7-8-10/
 門外漢的 Docker 小試身手<br>
 http://www.codedata.com.tw/social-coding/docker-layman-abc/
 
+用 Docker 建立 Laravel 的開發環境<br>
+http://blog.chengweichen.com/2016/03/docker-laravel.html
+
 # 學習書籍
 使用docker不再需要架設系統 (2016年1月出版，觀念講解深入)<br>
 Docker入門與實戰 (2015年5月出版，適合剛學的人練習參考用)<br>
